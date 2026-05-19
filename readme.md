@@ -1,0 +1,2 @@
+# Calculadora utilizando classe
+O trabalho consiste no desenvolvimento de uma calculadora em Java utilizando programação orientada a objetos (POO). O sistema permite que o usuário escolha operações matemáticas pelo terminal, como soma, subtração, multiplicação e divisão.
